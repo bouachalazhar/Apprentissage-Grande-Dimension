@@ -6,4 +6,4 @@ En présence de nombreuses variables explicatives, on suppose généralement que
   - tests multiples : utilisés en pré-traitement pour filtrer les variables
   - réduction de dimension : utilisés en pré-traitement pour réduire la dimension de l’espace des variables
   - choix de modèles : pour choisir le meilleur sous-modèle
-  - régressions sous contraintes (ou pénalisées) : pour contraindre le nombre de paramètres dans le modèle.
+  - régressions sous contraintes (ou pénalisées) : pour contraindre le nombre de paramètres dans le modèle
